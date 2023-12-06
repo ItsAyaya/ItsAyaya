@@ -1,4 +1,5 @@
 ### Hi there 👋
+err..Can someone teach me how to code plz?
 
 <!--
 **ItsAyaya/ItsAyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
