@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![ItsAyaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAyaya)](https://github.com/anuraghazra/github-readme-stats)
 err..Can someone teach me how to code plz?
 
 <!--
