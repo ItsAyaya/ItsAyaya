@@ -1,7 +1,8 @@
-### Hi there 👋
-[![ItsAyaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAyaya)](https://github.com/anuraghazra/github-readme-stats)  
-err..Can someone teach me how to code plz?
-
+### Hi there 👋 I'm Aya!
+- I'm majoring **Data Science And Big Data Technology** @**Shandong Sport University** 
+- I'm currently learning: **Machine Learning**, **Programming(still in vibe coding status...)**...  
+- Fighting for the **Entrance Examination For Postgraduate**.  
+err..Can someone teach me how to code plz?  
 <!--
 **ItsAyaya/ItsAyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
